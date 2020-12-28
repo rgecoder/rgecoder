@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://www.royge.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.royge.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/roygecode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roy%20Ge%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/roygecode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roy%20Re%20Ge-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="royge@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-royge@usc.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
