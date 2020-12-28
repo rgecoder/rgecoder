@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Full stack developer currently focused on the MERN/MEAN projects.
+- 🎓 &nbsp; Graduated with B.S. in Industrial & System Engineering at USC.
+- 💼 &nbsp; Worked a manufacturing process engineering manager throughout Asia Regions.
+- 🌱 &nbsp; Passionate about software development, problem solving, team collaboration.
+- ✍️ &nbsp; Pursuing a career in the field I'm passionate about, web and app development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,14 +39,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
 
-<br/>
-
-<a href="https://github.com/rgecoder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgecoder&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgecoder&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
