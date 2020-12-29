@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Full stack developer currently focused on the MERN/MEAN projects.
-- 🎓 &nbsp; Graduated with B.S. in Industrial & System Engineering at USC.
+- 🧑🏻‍💻&nbsp; Full stack developer currently focused on the MERN/MEAN projects.
+- 🎓 &nbsp; B.S. in Industrial & System Engineering, USC.
 - 💼 &nbsp; Worked a manufacturing process engineering manager throughout Asia Regions.
 - 🌱 &nbsp; Passionate about software development, problem solving, team collaboration.
 - ✍️ &nbsp; Pursuing a career in the field I'm passionate about, web and app development.
