@@ -8,7 +8,7 @@
 - 🎓 &nbsp; B.S. in Industrial & System Engineering, USC.
 - 💼 &nbsp; 4+ years Experienced Systems Engineering Manager, 3+ years JS, 2+ years React.
 - 🌱 &nbsp; Passionate about software, problem solving, working in agile environent.
-- ✍️ &nbsp; Pursuing a career in the field that drives me, web and app development.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
