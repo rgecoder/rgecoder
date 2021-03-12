@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Roy.</h2>
+<h2> Hey there! I'm Ray.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
