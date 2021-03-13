@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ray.</h2>
+<h2> Hey there!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -46,6 +46,6 @@
 <a href="https://www.royge.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.royge.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/roygecode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roy%20R%20Ge-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="royge@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-royge@usc.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="rgecoder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-royge@usc.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
