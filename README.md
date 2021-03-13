@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🧑🏻‍💻&nbsp; Software Engineer currently focused on the MERN/MEAN projects.
-- 🎓 &nbsp; B.S. in Industrial & System Engineering, USC.
+- 🎓 &nbsp; B.S. in Industrial & System Engineering (Computer Systems & Project Management), USC.
 - 💼 &nbsp; 4+ years Experienced Systems Engineering Manager, 3+ years JS, 2+ years React.
 - 🌱 &nbsp; Passionate about software, problem solving, working in agile environent.
 
