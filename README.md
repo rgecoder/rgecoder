@@ -44,8 +44,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/richardqge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roy%20R%20Ge-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/richardqge/"><img alt="LinkedIn" ></a>
 
-<a href="qge@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-royge@usc.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="qge@usc.edu"><img alt="Email" ></a>
 </p>
 
