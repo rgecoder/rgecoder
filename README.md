@@ -40,12 +40,3 @@
  
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/richardqge/"><img alt="LinkedIn" ></a>
-
-<a href="qge@usc.edu"><img alt="Email" ></a>
-</p>
-
