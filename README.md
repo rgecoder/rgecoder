@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧑🏻‍💻&nbsp; Software Engineer currently focused on the MERN/MEAN projects.
-- 🎓 &nbsp; current B.S. Computer Science, USC.
+- 🧑🏻‍💻&nbsp; Software Engineer
+- 🎓 &nbsp; Current B.S. Computer Science, USC.
 - 💼 &nbsp; Engineering Student
-- 🌱 &nbsp; Passionate about software, problem solving, working in agile environent.
+- 🌱 &nbsp; Passionate about software, problem solving, working in a diverse & agile environent.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -43,9 +43,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.royge.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.royge.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/roygecode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roy%20R%20Ge-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="rgecoder@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-royge@usc.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/richardqge/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roy%20R%20Ge-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="qge@usc.edu"><img alt="Email" src="https://img.shields.io/badge/Email-royge@usc.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
